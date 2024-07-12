@@ -1,0 +1,10 @@
+
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+streamlit==1.10.0
+google-generativeai
+streamlit-lottie
+requests
+fpdf
+fpdf==1.7.2
